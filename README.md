@@ -39,7 +39,7 @@
 ## 🎯 Professional Overview
 
 <div style="background: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea; margin: 20px 0;">
-I design and build backend systems that are practical, secure, and easy to maintain. I love turning messy requirements into small, testable modules and shipping them with confidence. My work is about clarity — clear APIs, clear code, clear docs — so teams move faster and products stay reliable.
+I design and build backend systems that are practical, secure, and easy to maintain. I enjoy transforming messy requirements into small, testable modules, allowing us to deliver them with confidence. My focus is on clarity—clear APIs, clear code, and clear documentation—so that teams can work more efficiently and products remain reliable.
 </div>
 
 ---

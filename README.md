@@ -1,9 +1,9 @@
 <p align="center">
   <img
     src="https://github.com/SheikhIshere/SheikhIshere/blob/main/assets/hero.png?raw=true"
-    alt="Hero — minimalist workspace"
-    width="280"
-    style="border-radius:50%;border:6px solid #1DA1F2;box-shadow:0 12px 40px rgba(0,0,0,0.2);margin-bottom:24px;"
+    alt="Imran Rafi — Backend Engineer"
+    width="220"
+    style="border-radius:50%; border:6px solid #1DA1F2; box-shadow:0 8px 30px rgba(0,0,0,0.25); margin-bottom:20px;"
   />
 </p>
 

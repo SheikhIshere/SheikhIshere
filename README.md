@@ -1,11 +1,12 @@
 <p align="center">
   <img
-    src="https://www.facebook.com/photo/?fbid=1139588211148903&set=a.101747544932980"
+    src="https://github.com/SheikhIshere/SheikhIshere/blob/main/assets/hero.png?raw=true"
     alt="Hero — minimalist workspace"
-    width="100%"
-    style="max-width:1100px;border-radius:16px;box-shadow:0 20px 60px rgba(2,6,23,0.15);margin-bottom:24px;border:1px solid rgba(255,255,255,0.1);"
+    width="280"
+    style="border-radius:50%;border:6px solid #1DA1F2;box-shadow:0 12px 40px rgba(0,0,0,0.2);margin-bottom:24px;"
   />
 </p>
+
 
 <div align="center">
 
